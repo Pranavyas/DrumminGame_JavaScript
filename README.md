@@ -4,3 +4,5 @@
 • Different sounds plays on clicking the drum
 
 • key presses produce sound of the different drum instrument too
+
+![](drumming.JPG)
